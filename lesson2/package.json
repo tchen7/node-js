@@ -1,0 +1,22 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "Lesson 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "idk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "tong",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "utility": "^1.6.0"
+  }
+}
